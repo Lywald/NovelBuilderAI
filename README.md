@@ -1,9 +1,7 @@
 # NovelBuilderAI -- HQ Writing Tool
 Use AI (Anthropic's Claude) to generate HIGH QUALITY novel world background & characters & story plots from the ground up (it does not write the prose)
 
-Warning: **it costs one dollar** to generate all of the cells. The quality though, is unmatched. It is State-of-the-art technology. 
-
-There is no way around that. I am giving the code for free but the AI, it is not in my hands.
+Warning: **it costs one dollar** to generate all of the cells. The quality though, is unmatched. It is State-of-the-art technology. There is no way around the price. I am giving the code for free but the AI, it is not in my hands.
 
 Examples are worth a thousand words:
 
