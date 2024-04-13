@@ -45,6 +45,9 @@ One minute later, I have all this information.
 - When you are happy with the results, copy/paste the files which have been generated for you in the folder
    ![image](https://github.com/Lywald/NovelBuilderAI/assets/56117568/e4e1b37f-8b72-4206-bc03-0970fc38427a)
   
+
 If you don't back them up, they will be overwritten with the next generation.
+
+Save files are only saved when clicking Submit, and *not* by textbox editing. 
 
 Enjoy
