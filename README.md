@@ -27,11 +27,13 @@ One minute later, I have all this information.
    - pip install anthropic
      
 3) Create an API key at
+   
    https://console.anthropic.com/settings/keys
    
-4) Edit the top of the file NovelBuilderAI.py with your API key, where it is specified
+5) Edit the top of the file NovelBuilderAI.py with your API key, where it is specified
 
-5) Run the command
+6) Run the command
+   
    python ./NovelBuilderAI.py
 
 
